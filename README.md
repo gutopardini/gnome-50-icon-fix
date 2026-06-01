@@ -12,7 +12,7 @@ This script identifies the missing category icons and maps them to their modern 
 You can run the fix directly without cloning:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/gnome-50-icon-fix/main/fix-icons.sh | bash -s -- YourThemeName
+curl -sSL https://raw.githubusercontent.com/gutopardini/gnome-50-icon-fix/main/fix-icons.sh | bash -s -- YourThemeName
 ```
 *(Replace `YourThemeName` with the name of your theme folder, e.g., `Fluent`)*
 
